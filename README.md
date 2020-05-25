@@ -32,6 +32,7 @@ client = FlowCl::Client.new(api_key, secret_key, { logger: false, sandbox: true 
 
 ## Documentation
 
+Please read the documentation [here](https://www.rubydoc.info/gems/flow_cl/1.0.0) and [here](https://www.flow.cl/docs/api.html)
 
 ## Development
 
